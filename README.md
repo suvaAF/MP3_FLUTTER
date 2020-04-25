@@ -1,6 +1,6 @@
 # mp3flutter
 
-Une application MP3 FLUTTER
+Une application MP3 développé sous FLUTTER très basique pour tester la compatibilité Android/IOS 
 
 ## Getting Started
 
